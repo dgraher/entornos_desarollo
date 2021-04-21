@@ -3,7 +3,7 @@ public class Beca {
     static int smi=750;
     static double renta_mínima=1500;
     static double renta_máxima=2400;
-    
+     
 	public static int calcularBeca(double rentaFamiliar) throws RuntimeException {
 		int beca;
 
